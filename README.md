@@ -2,8 +2,8 @@
 
 A beautiful full-stack application that uses **Claude AI** to review your code and provide intelligent suggestions. **No authentication required** - just enter your name and start reviewing!
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red)
-![React](https://img.shields.io/badge/React-18.x-blue)
+![Main](https://github.com/nakvi/CodeReview-AI/blob/main/codereview-ai-backend/public/SS/main.png)
+![React](https://github.com/nakvi/CodeReview-AI/blob/main/codereview-ai-backend/public/SS/second.png)
 ![Claude AI](https://img.shields.io/badge/Claude-Sonnet%204-purple)
 
 ---
